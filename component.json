@@ -1,0 +1,27 @@
+{
+  "name": "todc-bootstrap",
+  "repo": "layerssss/todc-bootstrap",
+  "description": "Google-styled theme for Twitter Bootstrap.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "btknorr/bootstrap":"*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "docs/assets/js/select2.min.js",
+    "docs/assets/js/google-code-prettify/prettify.js"
+  ],
+  "styles": [
+    "docs/assets/css/select2.css",
+    "docs/assets/js/google-code-prettify/prettify.css",
+    "docs/assets/css/todc-bootstrap.css"
+  ],
+  "files":[
+    "docs/assets/img/select2.png",
+    "docs/assets/img/select2x2.png",
+    "docs/assets/img/checkmark.png"
+  ]
+}

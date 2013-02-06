@@ -1,3 +1,9 @@
+# Component version of the todc-bootstrap framework
+
+## Installation
+
+Follow instructions from the [Component framework](https://github.com/component)
+
 # Overview #
 
 This is a Google-styled theme for Twitter Bootstrap. Because I'm a fan of the new Google UI seen in Gmail, Docs, Calendar, etc, I decided to reproduce
