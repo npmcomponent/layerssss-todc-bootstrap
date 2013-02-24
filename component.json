@@ -2,7 +2,7 @@
   "name": "todc-bootstrap",
   "repo": "layerssss/todc-bootstrap",
   "description": "Google-styled theme for Twitter Bootstrap.",
-  "version": "0.0.1",
+  "version": "2.3.0",
   "keywords": [],
   "dependencies": {
     "btknorr/bootstrap":"*"
