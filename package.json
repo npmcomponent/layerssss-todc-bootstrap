@@ -1,0 +1,15 @@
+{
+  "name": "layerssss-todc-bootstrap",
+  "description": "Google-styled theme for Twitter Bootstrap.",
+  "version": "2.3.0",
+  "keywords": [],
+  "styles": [
+    "docs/assets/css/select2.css",
+    "docs/assets/js/google-code-prettify/prettify.css",
+    "docs/assets/css/todc-bootstrap.css"
+  ],
+  "dependencies": {
+    "btknorr-bootstrap": "git://github.com/npmcomponent/btknorr-bootstrap.git"
+  },
+  "license": "MIT"
+}
